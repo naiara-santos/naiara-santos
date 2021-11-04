@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naiara-santos
+- 👋 Hi, I’m Naiara
 - 👀 I’m interested in IA, Python and Java
 - 🌱 I’m currently learning Java
 
